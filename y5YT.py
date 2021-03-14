@@ -13,6 +13,8 @@ if my_hand == 0:
     print('勝ち')
 elif my_hand == 1:
   if you_hand == 0:
-    print('負け')
+    print('負け')   
   elif you_hand == 1:
     print('あいこ')
+  elif     you_hand     ==     2の場合：
+  いい印刷（' 勝ち'）
